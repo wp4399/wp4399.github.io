@@ -1,0 +1,130 @@
+@charset "utf-8";
+/* CSS Document */
+.w {
+	width: 1200px;
+	margin: 0 auto;
+}
+header {
+	height: 84px;
+	border-bottom: 2px solid #b1191a;
+	padding-top: 17px;
+}
+.registerarea {
+	height: 521px;
+	border: 1px solid #ccc;
+	margin-top: 20px;
+}
+.registerarea h3 {
+	height: 42px;
+	line-height: 42px;
+	font-size: 18px;
+	font-weight: 400;
+	background-color: #ececec;
+	border-bottom: 1px solid #ccc;
+	padding: 0 10px;
+}
+.registerarea h3 span {
+	float: right;
+	font-size: 14px
+}
+.registerarea h3 span a {
+	color: #c81623;
+}
+.reg_form {
+	width: 580px;
+	margin: 50px auto 0;
+}
+.reg_form ul li {
+	margin-bottom: 20px;
+	
+}
+.reg_form .inp {
+	width: 240px;
+	height: 36px;
+	border: 1px solid #ccc;
+}
+.reg_form label {
+	display: inline-block;
+	width: 90px;
+	font-size: 14px;
+	text-align: right;
+}
+.reg_form ul li span {
+	color: #df3033;
+	font-size: 12px;
+	margin-left: 10px;
+}
+.reg_form ul li span i {
+	display: inline-block;
+	vertical-align: middle;
+	width: 25px;
+	height: 20px;
+	background: url("../images/error.png")no-repeat;
+}
+.safe {
+	padding-left: 164px;
+	margin-top: -8px;
+}
+.safe em {
+	color: #fff;
+	padding: 0 12px;
+	margin-left: 2px;
+}
+.ruo {
+	background-color: #de1111;
+}
+.zhong {
+	background-color: #40b83f;
+}
+.qiang {
+	background-color: #f79100;
+}
+.agree {
+	padding-left: 90px;
+}
+.agree input {
+	vertical-align: middle;
+}
+.agree i {
+	padding: 0 10px;
+}
+.agree a {
+	color: #1ba1e6;
+}
+.success input{
+	width: 200px;
+	height: 34px;
+	line-height: 34px;
+	text-align: center;
+	color: #ffffff;
+	font-size: 14px;
+	background-color: #c81623;
+	margin: 40px 0 0 100px;
+}
+.mod_copyright {
+	padding-top: 20px;
+	height: 120px;
+	text-align: center;
+}
+.mod_copyright ul {
+	margin-left: 80px;
+}
+.mod_copyright ul li {
+	float: left;
+	height: 14px;
+	line-height: 14px;
+}
+.mod_copyright ul li:nth-child(even) {
+	width: 1px;
+	height: 12px;
+	background-color: #999999;
+	margin: 0 15px;
+}
+.mod_copyright .address {
+	margin-top: 15px;
+	line-height: 20px;
+}
+
+
+
+
